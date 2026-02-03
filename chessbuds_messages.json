@@ -1,0 +1,3603 @@
+{
+  "participants": [
+    {
+      "name": "Scott Pence"
+    },
+    {
+      "name": "Chad Larson"
+    },
+    {
+      "name": "Joanna Rusch"
+    },
+    {
+      "name": "Angela Babbitt Pence"
+    },
+    {
+      "name": "David Silva"
+    },
+    {
+      "name": "Aaron Rusch"
+    },
+    {
+      "name": "Timothy Vanderpool"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1666374933946,
+      "content": "Maybe he just wants to ride the publicity for a bit longer, even if he doesn't get any money from the lawsuit. Like, I didn't know his name before this but I certainly do now.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Maybe he just wants to ride the publicity for a bit longer, even if he doesn't get any money from the lawsuit. Like, I didn't know his name before this but I certainly do now.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1666373448613,
+      "content": "To be fair to Hans....no one wants to be associated with an \"anal bead\" theory.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "To be fair to Hans....no one wants to be associated with an \"anal bead\" theory.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1666373216381,
+      "content": "He would have to prove he didn't cheat and that they knew he didn't cheat....and made it all up.  That's not provable.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "He would have to prove he didn't cheat and that they knew he didn't cheat....and made it all up.  That's not provable.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1666373164883,
+      "content": "Yeah, no way. You over shoot and hope to get a portion.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah, no way. You over shoot and hope to get a portion.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1666373111157,
+      "content": "From what I see, I don't think he could win.  But he is probably hoping for a good sized settlement",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "From what I see, I don't think he could win.  But he is probably hoping for a good sized settlement",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1666372784166,
+      "content": "https://youtu.be/EDvK6i86EZ0",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        }
+      ],
+      "share": {
+        "link": "https://www.youtube.com/watch?v=EDvK6i86EZ0"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/EDvK6i86EZ0",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1666319276656,
+      "content": "Hans is suing Magnus and Hikaru for $100 million dollars hahaha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Hans is suing Magnus and Hikaru for $100 million dollars hahaha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1666197242777,
+      "content": "My first great move!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "My first great move!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1666197230009,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/312097852_642845703998797_5890449692529901285_n_642845700665464.png",
+          "creation_timestamp": 1666197228
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0083",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0083",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1666052367051,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/311428108_3370460183189495_4558735131754408614_n_3370460179856162.png",
+          "creation_timestamp": 1666052365
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0083",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0083",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1664600936187,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/309451039_843705807070140_6749608054411448521_n_843705803736807.png",
+          "creation_timestamp": 1664600934
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1664163367819,
+      "content": "Nepo said he himself has been suspicious of Hans since 2019.  Also, sounds like Magnus was upset before even playing (and losing to) Hans.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Nepo said he himself has been suspicious of Hans since 2019.  Also, sounds like Magnus was upset before even playing (and losing to) Hans.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1664163283539,
+      "content": "https://new.chess24.com/wall/news/nepo-asked-for-extra-measures-against-niemann-in-st-louis",
+      "share": {
+        "link": "https://new.chess24.com/wall/news/nepo-asked-for-extra-measures-against-niemann-in-st-louis"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://new.chess24.com/wall/news/nepo-asked-for-extra-measures-against-niemann-in-st-louis",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1663711504721,
+      "content": "Ahh I guess I just assumed cause chess.com bought Play Magnus.",
+      "share": {
+        "link": "https://www.chess.com/"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Ahh I guess I just assumed cause chess.com bought Play Magnus.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1663710819487,
+      "content": "Regardless, it is odd that they seem to know more info but aren't saying anything. Like Levy said, someone needs to say something because the window is closing.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Regardless, it is odd that they seem to know more info but aren't saying anything. Like Levy said, someone needs to say something because the window is closing.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1663710579307,
+      "content": "I thought Magnus owned part of Chess24. Not sure about chess,com.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I thought Magnus owned part of Chess24. Not sure about chess,com.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1663709538260,
+      "content": "I am curious, as Chess.com is implying they know additional information about Hans cheating more recently.  I believe Magnus is part owner of Chess.com.....so maybe he has some insight that he isn't willing to share yet.",
+      "share": {
+        "link": "https://www.chess.com/"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I am curious, as Chess.com is implying they know additional information about Hans cheating more recently.  I believe Magnus is part owner of Chess.com.....so maybe he has some insight that he isn't willing to share yet.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1663708709619,
+      "content": "Yeah I feel like Magnus is just being petty now. It's not reflecting well on him.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah I feel like Magnus is just being petty now. It's not reflecting well on him.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1663691074469,
+      "content": "Very good video!! Explains it very well.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Very good video!! Explains it very well.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1663650378889,
+      "content": "https://m.youtube.com/watch?v=YktWQrnjPwU",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=YktWQrnjPwU"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://m.youtube.com/watch?v=YktWQrnjPwU",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662513107863,
+      "content": "https://youtu.be/x-q64bPo0J0",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=x-q64bPo0J0"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/x-q64bPo0J0",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662498887686,
+      "content": "I saw one post talking about the level of conspiracy.\nLevel 1 Hans, person with a past of cheating online, cheated OTB\nLevel 2 Hans didn't cheat and Magnus is just upset\nLevel 3 Nepo got Hans to act sus so Magnus would drop out negating Nepo loss and revenge for losing at the title match last year\nLevel 4 Levy (Gotham Chess)and Hikaru are behind this to drum up more views\nLevel 5 Magnus has a secret wife and had to drop out to be at the birth of his love child.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I saw one post talking about the level of conspiracy.\nLevel 1 Hans, person with a past of cheating online, cheated OTB\nLevel 2 Hans didn't cheat and Magnus is just upset\nLevel 3 Nepo got Hans to act sus so Magnus would drop out negating Nepo loss and revenge for losing at the title match last year\nLevel 4 Levy (Gotham Chess)and Hikaru are behind this to drum up more views\nLevel 5 Magnus has a secret wife and had to drop out to be at the birth of his love child.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1662498356307,
+      "content": "Magnus doesn't want to say anything to avoid a slander lawsuit.  I guess for me, the analysis is the real weird part.  All these experienced players say his post game analysis is completely off.  As if he didn't play the game.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Magnus doesn't want to say anything to avoid a slander lawsuit.  I guess for me, the analysis is the real weird part.  All these experienced players say his post game analysis is completely off.  As if he didn't play the game.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1662498296335,
+      "content": "Yep, this is exactly what they look for.\n\nPlayers also use the bathroom and could have a hidden cell phone.\n\nBut really, if he is cheating, he is probably doing it in a way that no one has found before.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yep, this is exactly what they look for.\n\nPlayers also use the bathroom and could have a hidden cell phone.\n\nBut really, if he is cheating, he is probably doing it in a way that no one has found before.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662498291835,
+      "content": "And it will SOO hard to prove. The only way really is to catch them redheaded.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "And it will SOO hard to prove. The only way really is to catch them redheaded.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662498250973,
+      "content": "But that is just how I would cheat.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "But that is just how I would cheat.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662498207629,
+      "content": "One guess, you could use a small noiseless buzzer to feed you the next move with buzzes standing in for letter and number. Something like buzzbuzz... Buzzbuzzbuzzbuzz could be pawn to B4",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "One guess, you could use a small noiseless buzzer to feed you the next move with buzzes standing in for letter and number. Something like buzzbuzz... Buzzbuzzbuzzbuzz could be pawn to B4",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1662497898918,
+      "content": "What would they be searching for that would be useful to cheat?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "What would they be searching for that would be useful to cheat?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662497879277,
+      "content": "And Magnus' tweet saying he can't talk about it or he will get in trouble.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "And Magnus' tweet saying he can't talk about it or he will get in trouble.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662497774879,
+      "content": "The only clue we have that I know of is they upped the amount of metal detecting and hand wanding and added a 15 minute delay of the broadcast.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "The only clue we have that I know of is they upped the amount of metal detecting and hand wanding and added a 15 minute delay of the broadcast.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1662497675046,
+      "content": "It's just hard to buy the accusation without a solid theory on how it supposedly happened.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "It's just hard to buy the accusation without a solid theory on how it supposedly happened.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662497589479,
+      "content": "I haven't heard anything yet on that.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I haven't heard anything yet on that.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1662497543293,
+      "content": "I guess I get why people think it's suspicious that he won, but what are the logistics of how he might have cheated? Paid off someone to see what opening Magnus was planning to use before the game? Had someone in the audience feeding him signals throughout?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I guess I get why people think it's suspicious that he won, but what are the logistics of how he might have cheated? Paid off someone to see what opening Magnus was planning to use before the game? Had someone in the audience feeding him signals throughout?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662492429757,
+      "content": "Clarification: round 4 Hans played Alireza. It was the match after he played Magnus.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Clarification: round 4 Hans played Alireza. It was the match after he played Magnus.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662490744799,
+      "content": "Yes, his post interview after round 4 (his match after Magnus) there were lines where he just said crazy incorrect moves, read the position wrong, missed a forced mate. It was really weird.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yes, his post interview after round 4 (his match after Magnus) there were lines where he just said crazy incorrect moves, read the position wrong, missed a forced mate. It was really weird.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1662490487645,
+      "content": "Yeah, idk.  Also apparently in the post game interview, Hans couldn't answer basic questions about the position.  Rosen and Hikaru apparently both found that suspicious.\n\nI doubt Hans cheated, but apparent he has been accused before for cheating online.....so a good game by him is probably viewed suspiciously.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah, idk.  Also apparently in the post game interview, Hans couldn't answer basic questions about the position.  Rosen and Hikaru apparently both found that suspicious.\n\nI doubt Hans cheated, but apparent he has been accused before for cheating online.....so a good game by him is probably viewed suspiciously.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662490420452,
+      "content": "Hikaru did say Magnus was off in that game though and never really had a winning position.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Hikaru did say Magnus was off in that game though and never really had a winning position.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662490351209,
+      "content": "Yeah, it was a slight variation off Magnus normal, but Hans still played perfect. On top of that before they went off Hans took I think 15 minutes and Magnus took like 3. So if it was in his prep why did he take so long?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah, it was a slight variation off Magnus normal, but Hans still played perfect. On top of that before they went off Hans took I think 15 minutes and Magnus took like 3. So if it was in his prep why did he take so long?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1662490089800,
+      "content": "I think it had to do with the fact that Magnus has bever played that opening before, yet his opponents played as if it was in his preparation.  Basically a question of \"why would you prepare something magnus has never played before?\"\n\nAm I right scott?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I think it had to do with the fact that Magnus has bever played that opening before, yet his opponents played as if it was in his preparation.  Basically a question of \"why would you prepare something magnus has never played before?\"\n\nAm I right scott?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1662489863183,
+      "content": "I mean, everyone has off or stellar days...",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I mean, everyone has off or stellar days...",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1662489843613,
+      "content": "Hmmm is it just that it was so much of an upset? Like no can comprehend how Magnus lost without foul play?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Hmmm is it just that it was so much of an upset? Like no can comprehend how Magnus lost without foul play?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662489771121,
+      "content": "hahaha I'm not really sure either. They get metal detected on their way in.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "hahaha I'm not really sure either. They get metal detected on their way in.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662489732856,
+      "content": "Means rookB1",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Means rookB1",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662489718995,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/271509378_440207271109794_8171423686120017391_n_1734383773606976.gif"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1662489529941,
+      "content": "I guess I'm not sure how one would cheat in OTB chess?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I guess I'm not sure how one would cheat in OTB chess?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1662480499917,
+      "content": "That was super strange.  The whole cheating allegations.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "That was super strange.  The whole cheating allegations.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1662434412006,
+      "content": "Has anyone else heard about Magnus dropping out of the Sinquefield cup? Crazy crazy",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Has anyone else heard about Magnus dropping out of the Sinquefield cup? Crazy crazy",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1659488767892,
+      "content": "Yeah I got him to make an account! I play DnD with him and it came up that I like chess.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah I got him to make an account! I play DnD with him and it came up that I like chess.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1659488690850,
+      "content": "Anyone else see that Hush plays on chess.com? I was bored and was looking through your old games Jo and saw you had one against him.",
+      "share": {
+        "link": "https://www.chess.com/"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Anyone else see that Hush plays on chess.com? I was bored and was looking through your old games Jo and saw you had one against him.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1659488523150,
+      "content": "I probably should've resigned a lot sooner.... Haha gg",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I probably should've resigned a lot sooner.... Haha gg",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1659488466967,
+      "content": "GG @Joanna Rusch",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "GG @Joanna Rusch",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1658903005234,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1658899298094,
+      "content": "https://youtu.be/mFUir-FLBzo",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=mFUir-FLBzo"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/mFUir-FLBzo",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1655689552856,
+      "content": "Tied my high score from yesterday.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Tied my high score from yesterday.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1655689528877,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/287946770_302957158623291_248936426802833005_n_302957155289958.png",
+          "creation_timestamp": 1655689527
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1655586568377,
+      "content": "Also, this was a great reminder that I was about to lose our game on time! So thanks \u00f0\u009f\u00a4\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Also, this was a great reminder that I was about to lose our game on time! So thanks \u00f0\u009f\u00a4\u00a3",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1655582817655,
+      "content": "New high score!!!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "New high score!!!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1655582803996,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/287588252_399637432223818_7102076117045521511_n_399637425557152.jpg",
+          "creation_timestamp": 1655582802
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1640331465563,
+      "content": "Take that, Santa.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Take that, Santa.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1640331413751,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/266377601_343028357249900_1962244343551640579_n_343028353916567.png",
+          "creation_timestamp": 1640331412
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1639707710454,
+      "content": "Wow.....Hikaru won the very last 1 min game.  Going to overtime.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Wow.....Hikaru won the very last 1 min game.  Going to overtime.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1639699148768,
+      "content": "Fun to watch live.  So entertaining!\nhttps://youtube.com/watch?v=8NRZKcEg9Hc&feature=share",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=8NRZKcEg9Hc"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Fun to watch live.  So entertaining!\nhttps://youtube.com/watch?v=8NRZKcEg9Hc&feature=share",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1639459365648,
+      "content": "I do like Nepo.  I think Vishy and Maxime are known to be good guys too.  Maximes style reminds me of Nepo.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I do like Nepo.  I think Vishy and Maxime are known to be good guys too.  Maximes style reminds me of Nepo.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1639459257561,
+      "content": "Anish Giri, or Hikaru are my votes.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Anish Giri, or Hikaru are my votes.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1639428969738,
+      "content": "This might be a fun question. What GM do you think is the most decent or nice?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "This might be a fun question. What GM do you think is the most decent or nice?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1639428754530,
+      "content": "I feel kinda bad for Nepo. A lot of high level chess players come off as real jerks. Nepo legit seems like a good person.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I feel kinda bad for Nepo. A lot of high level chess players come off as real jerks. Nepo legit seems like a good person.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1639153026217,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/264880139_5077114995634578_2656412659125656192_n_1349826132136012.gif"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1639153025605,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/256154810_284457536906546_3830506916102369066_n_420829829691433.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1638903378537,
+      "content": "Nepo seemed to handle it well.  All the announcers were saying they would cry for 20 mins...walk back and forfeit and immediately leave and not go to press conference.\n\nInstead, Nepo played it out, chatted with Magnus after the game, and went to the press conference.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Nepo seemed to handle it well.  All the announcers were saying they would cry for 20 mins...walk back and forfeit and immediately leave and not go to press conference.\n\nInstead, Nepo played it out, chatted with Magnus after the game, and went to the press conference.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1638898621658,
+      "content": "It's looking rough.  Game started so well for him too.  As he said in press conference, he thought his position was so good, he didn't think it was possible to blunder it all in one move.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "It's looking rough.  Game started so well for him too.  As he said in press conference, he thought his position was so good, he didn't think it was possible to blunder it all in one move.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638893555841,
+      "content": "The closer you are to danger, the further you are from harm.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "The closer you are to danger, the further you are from harm.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638893539173,
+      "content": "Maybe genius?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Maybe genius?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1638893524670,
+      "content": "He is lulling Magnus into a false sense of security.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "He is lulling Magnus into a false sense of security.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638893206629,
+      "content": "Um... Nepo sandbagging?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Um... Nepo sandbagging?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638888105866,
+      "content": "Just logging in. Probably won't be watching much live.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Just logging in. Probably won't be watching much live.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1638883684083,
+      "content": "Nepo playing a wild game today. Magnus under pressure. .",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Nepo playing a wild game today. Magnus under pressure. .",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1638850401556,
+      "content": "Scott reacted \u00f0\u009f\u0091\u008d to your message ",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638806749918,
+      "content": "Exactly like that Scott. I want people to count the times they scrunch their noses and look annoyed and sip water.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Exactly like that Scott. I want people to count the times they scrunch their noses and look annoyed and sip water.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1638768583337,
+      "content": "I forgot and haven't been following the championship! Don't worry I'll catch up on it \u00f0\u009f\u00a4\u00a3",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I forgot and haven't been following the championship! Don't worry I'll catch up on it \u00f0\u009f\u00a4\u00a3",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1638768540893,
+      "content": "Joanna reacted \u00f0\u009f\u0098\u0086 to your message ",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1638750402930,
+      "content": "Scott reacted \u00f0\u009f\u0091\u008d to your message ",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1638750397124,
+      "content": "Like number of times and player touches their nose before making a move? Odds of a player dropping their pencil? Things like that?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "David Silva"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "David Silva"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Like number of times and player touches their nose before making a move? Odds of a player dropping their pencil? Things like that?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638734685182,
+      "content": "I'm on some betting pages looking for obscure odds. I'm kinda sad there aren't wilder options.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I'm on some betting pages looking for obscure odds. I'm kinda sad there aren't wilder options.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638734440222,
+      "content": "(I'm sure a bunch of folks are too)",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "(I'm sure a bunch of folks are too)",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638734430166,
+      "content": "haha 538 has been tracking how long it takes Nepo to talk of his blazer.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "haha 538 has been tracking how long it takes Nepo to talk of his blazer.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1638734388153,
+      "content": "Did you know the first eye contact of the entire championship didn't happen until game 6? haha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Did you know the first eye contact of the entire championship didn't happen until game 6? haha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1638734316115,
+      "content": "Good call David.  Seems like Nepo was done after game 6 and just wanted two quick draws and head back to the drawing board. Didn't work out.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Good call David.  Seems like Nepo was done after game 6 and just wanted two quick draws and head back to the drawing board. Didn't work out.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1638734102589,
+      "content": "Realized Chad and I are texting about the World Champ matches on a thread where literally no one else cares. All while we have this thread to talk about Magnus the GOAT and poor Nepo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Realized Chad and I are texting about the World Champ matches on a thread where literally no one else cares. All while we have this thread to talk about Magnus the GOAT and poor Nepo.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1635811241540,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/248637217_2450926771706057_376078514770277898_n_1526512687730855.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1635811224691,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/250803173_563033901426952_6452012301763911265_n_563033898093619.png",
+          "creation_timestamp": 1635811222
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aaron Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Aaron Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1634439970168,
+      "content": "So it doesn't really count lol",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "So it doesn't really count lol",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1634439955255,
+      "content": "Lol think of how many times I would have lost that game on time if I didn't have the premium membership....",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Lol think of how many times I would have lost that game on time if I didn't have the premium membership....",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1634439892170,
+      "content": "Good game Jo. After I blundered my queen there was little hope.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Good game Jo. After I blundered my queen there was little hope.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1633673517742,
+      "content": "https://youtube.com/watch?v=t8IVLOM1fXI&feature=share",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "share": {
+        "link": "https://www.youtube.com/watch?v=t8IVLOM1fXI"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtube.com/watch?v=t8IVLOM1fXI&feature=share",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1632971418630,
+      "content": "Just beat my high score!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "David Silva"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Just beat my high score!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1632971343251,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/243707988_857758558462460_2968329553260670258_n_857758555129127.png",
+          "creation_timestamp": 1632971341
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aaron Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Angela Babbitt Pence",
+      "timestamp_ms": 1631644667351,
+      "content": "Yes, I am very much an observer of chess.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yes, I am very much an observer of chess.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1631644407539,
+      "content": "Looks like this group is a chat between me, Joanna, and Scott...with 3 other observers. \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Looks like this group is a chat between me, Joanna, and Scott...with 3 other observers. \u00f0\u009f\u0098\u0082",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1631644049842,
+      "content": "You still have a while before you catch up to me",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "You still have a while before you catch up to me",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1631638455567,
+      "content": "Have to add four to my values now though.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Have to add four to my values now though.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1631638442779,
+      "content": "Didn't realize that was a PNG, but you get the point.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Didn't realize that was a PNG, but you get the point.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1631638329474,
+      "content": "Was working on silly coding examples for a class I'm teaching and came up with this. Now we know.",
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/240990250_583787019479556_475645743271610594_n_583787012812890.png",
+          "creation_timestamp": 1631638326
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Was working on silly coding examples for a class I'm teaching and came up with this. Now we know.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1630008598158,
+      "content": "New high score!!!!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "New high score!!!!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1630008589661,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/240764715_1012783842788797_8911358026990353332_n_1012783836122131.png",
+          "creation_timestamp": 1630008587
+        },
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/240772426_668339164126156_4802943834696366863_n_668339157459490.png",
+          "creation_timestamp": 1630008587
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1628981529595,
+      "content": "Ooo I will have to try it.  I gotta download app on my new phone!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Ooo I will have to try it.  I gotta download app on my new phone!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1628981489380,
+      "content": "You get 3 strikes.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "You get 3 strikes.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1628981472084,
+      "content": "17 total. My longest streak was 10 in a row.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "17 total. My longest streak was 10 in a row.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1628981388010,
+      "content": "That's awesome!  I haven't done it before...did you solve 17 puzzles in a row?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "That's awesome!  I haven't done it before...did you solve 17 puzzles in a row?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1628963882425,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/233767556_576113843413808_1292728425956987920_n_576113840080475.png",
+          "creation_timestamp": 1628963880
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1628963877254,
+      "content": "I was able to tie my puzzle record today. I thought today would be the day.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I was able to tie my puzzle record today. I thought today would be the day.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1626214598778,
+      "content": "https://www.nytimes.com/2021/07/13/sports/chess-karjakin-mishra-grandmasters.html",
+      "share": {
+        "link": "https://www.nytimes.com/2021/07/13/sports/chess-karjakin-mishra-grandmasters.html"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://www.nytimes.com/2021/07/13/sports/chess-karjakin-mishra-grandmasters.html",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622740925239,
+      "content": "Yeah that's weird. But also twinsies!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a5\u00b0",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah that's weird. But also twinsies!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1622737036016,
+      "content": "Looks like my game didn't include your latest move maybe?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Looks like my game didn't include your latest move maybe?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622736962167,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/192046024_314370600311926_1809655267935912844_n_314370593645260.png",
+          "creation_timestamp": 1622736961
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622736949089,
+      "content": "Weird, I have different accuracy numbers on my screen.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Weird, I have different accuracy numbers on my screen.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1622736822944,
+      "content": "Identical for that game Scott haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Identical for that game Scott haha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1622736816739,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/195140784_123178793163336_3542987473279947812_n_123178786496670.png",
+          "creation_timestamp": 1622736814
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Aaron Rusch",
+      "timestamp_ms": 1622693402771,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/51789779_516198268904555_4994513422935654400_n_2936638753260931.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u00a3",
+          "actor": "Angela Babbitt Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "David Silva"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622675685437,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/50245359_632587633841664_1520899712524222464_n_315202736767054.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aaron Rusch"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1622675491165,
+      "content": "It was a great one.  Aaron is so proud",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "It was a great one.  Aaron is so proud",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1622675474899,
+      "content": "I needed a new phone anyways.  I think it will live long enough to transfer",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I needed a new phone anyways.  I think it will live long enough to transfer",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Angela Babbitt Pence",
+      "timestamp_ms": 1622675473089,
+      "content": "My reaction to Scott's pun.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "My reaction to Scott's pun.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Angela Babbitt Pence",
+      "timestamp_ms": 1622675466702,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/31103639_10216545617171508_2724451154904743936_n_826718261288693.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622675437170,
+      "content": "Sorry about your phone though.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Sorry about your phone though.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622675424953,
+      "content": "You mean RiceCU? Hahaha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "David Silva"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "You mean RiceCU? Hahaha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1622675236600,
+      "content": "Ahhhh...yes.....my phone sorta had a thing happen in lake lowell.  It's in the rice ICU currently.  Looks like it might pull through.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Ahhhh...yes.....my phone sorta had a thing happen in lake lowell.  It's in the rice ICU currently.  Looks like it might pull through.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622674070555,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/195017739_793405068230027_4098920906524655781_n_793405064896694.gif"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1622673969596,
+      "content": "Chad... Um.. You forgot to play.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Chad... Um.. You forgot to play.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1621570161113,
+      "content": "It's a good one.  You sacrificed two pawns for extra development.  We will see what happens :D",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "It's a good one.  You sacrificed two pawns for extra development.  We will see what happens :D",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1621570049308,
+      "content": "Ugh Chad why did I challenge you to another match? I feel like every move is so high stakes.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Ugh Chad why did I challenge you to another match? I feel like every move is so high stakes.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1620227890569,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "\u00f0\u009f\u00a4\u00a3",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1620227640692,
+      "content": "https://youtu.be/ArIdyNy-cVY",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "share": {
+        "link": "https://www.youtube.com/watch?v=ArIdyNy-cVY"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/ArIdyNy-cVY",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Angela Babbitt Pence",
+      "timestamp_ms": 1620024249911,
+      "content": "https://vm.tiktok.com/ZMe4WUUvQ/",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "share": {
+        "link": "https://m.tiktok.com/v/6957353830518508806.html?_d=secCgYIASAHKAESMgowP%2FXxajfRNLeLmteF5Va%2FZnAHdw9fpe8c45yVeczNO01T9kMY%2F4Kg0VuqjH3YSVCwGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAWbB99410QEEx-I-r_wLG_UBbOGhiK-SAjSuPPkX45JvxPo51ecgPt97tj42tOJ0K&share_app_id=1233&share_item_id=6957353830518508806&share_link_id=c5ea36db-55d8-43b1-8045-939995658446&source=h5_m&timestamp=1620024234&u_code=dh8elbik945h1l&user_id=6933262519672144901&utm_campaign=client_share&utm_medium=android&utm_source=copy"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://vm.tiktok.com/ZMe4WUUvQ/",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1619984632153,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/50175616_340211213253889_8753457727969165312_n_2799897710340703.gif"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1619984546289,
+      "content": "That's one step up from calling them \"castles\".",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "That's one step up from calling them \"castles\".",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1619984486859,
+      "content": "To make everyone (except Aaron) feel better, Aaron still mixes up the names of bishops and rooks.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "David Silva"
+        },
+        {
+          "reaction": "\u00e2\u0099\u009f\u00ef\u00b8\u008f",
+          "actor": "Aaron Rusch"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "To make everyone (except Aaron) feel better, Aaron still mixes up the names of bishops and rooks.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1619984385202,
+      "content": "Feels like it. Except this time I'm chasing a rook.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Feels like it. Except this time I'm chasing a rook.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1619984382151,
+      "content": "Just like Paul Morphy trapped Louis Paulsen's queen in 1857.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Just like Paul Morphy trapped Louis Paulsen's queen in 1857.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1619984356130,
+      "content": "Your*",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Your*",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1619984325183,
+      "content": "Is this youre Groundhog day?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Is this youre Groundhog day?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1619984275078,
+      "content": "Guess I'm stuck here.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Guess I'm stuck here.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1619984216568,
+      "content": "Scott Pence added you to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "David Silva"
+        }
+      ],
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1619984213316,
+      "content": "Hahahaha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Hahahaha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1619984200955,
+      "content": "Wait did he really just leave???",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Wait did he really just leave???",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1619984197930,
+      "content": "True, but you refined the opening so much with your h8 addition.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "True, but you refined the opening so much with your h8 addition.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1619984185829,
+      "content": "Should I tell him those are characters from Rocky 4?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Should I tell him those are characters from Rocky 4?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1619984147883,
+      "content": "You left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "David Silva"
+        }
+      ],
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1619984122515,
+      "content": "Yupppppp, I'm out.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yupppppp, I'm out.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1619984074958,
+      "content": "Oh please, Chad. Thank you but I can't take all the credit. It really is just a variation off the Drago- Balboa match of 1985.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Oh please, Chad. Thank you but I can't take all the credit. It really is just a variation off the Drago- Balboa match of 1985.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1619983941767,
+      "content": "I am not even sure I could name two chess players. Magnus... and the one woman from Queen's Gambit (which we didn't even finish watching). Fav opening, I can name a few but I have no idea what they actually are. King's Indian, Italian defense, Scandinavian rock fish. I really am quite trash.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I am not even sure I could name two chess players. Magnus... and the one woman from Queen's Gambit (which we didn't even finish watching). Fav opening, I can name a few but I have no idea what they actually are. King's Indian, Italian defense, Scandinavian rock fish. I really am quite trash.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1619983694507,
+      "content": "It really was beautiful.  And of course my favorite opening is \"Showers\" created by Scott Pence.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "It really was beautiful.  And of course my favorite opening is \"Showers\" created by Scott Pence.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1619983330654,
+      "content": "Chad, I was so honored when you chose me as your favorite chess player. It was really a full circle moment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Chad, I was so honored when you chose me as your favorite chess player. It was really a full circle moment.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1619982999354,
+      "content": "David, you actually were playing the best line against me at the start.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "David, you actually were playing the best line against me at the start.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1619982638859,
+      "content": "David, as is tradition when joining this group, please state your favorite chess player and opening.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "David, as is tradition when joining this group, please state your favorite chess player and opening.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "David Silva",
+      "timestamp_ms": 1619982496443,
+      "content": "Oh boy, not sure I'm ready to be considered a chess bud...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Oh boy, not sure I'm ready to be considered a chess bud...",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1619913094621,
+      "content": "Scott Pence added you to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "David Silva"
+        }
+      ],
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1619505285219,
+      "content": "Yeah I'll have to look into him. Hadn't heard his name before.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah I'll have to look into him. Hadn't heard his name before.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1619501896792,
+      "content": "The Candidates tournament finished today, and Nepo (really exciting player) will be playing against Magnus in the 2021 World Championship.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "The Candidates tournament finished today, and Nepo (really exciting player) will be playing against Magnus in the 2021 World Championship.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1618431924015,
+      "content": "https://youtu.be/qc6FUfkjeqQ",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "share": {
+        "link": "https://www.youtube.com/watch?v=qc6FUfkjeqQ"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/qc6FUfkjeqQ",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617396522715,
+      "content": "Whoah same. Good video!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Whoah same. Good video!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617390333204,
+      "content": "My whole life I thought Elo was an acronym. World shattered.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "My whole life I thought Elo was an acronym. World shattered.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617390294412,
+      "content": "https://youtu.be/AsYfbmp0To0",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=AsYfbmp0To0"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/AsYfbmp0To0",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617385387710,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/127305315_408722573821589_3201959234738389444_n_3760755664023500.gif"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617385333679,
+      "content": "Literally hahaha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Literally hahaha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617385304150,
+      "photos": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/photos/167035463_433357531066799_363108267881231772_n_433357524400133.png",
+          "creation_timestamp": 1617385302
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617344055483,
+      "content": "Aaron, you are like my kryptonite lately. You keep playing really against me.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Aaron, you are like my kryptonite lately. You keep playing really against me.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617339841294,
+      "content": "Agadmator was pretty small for a long time, but seems to have gotten a lot bigger this year.  Always great videos!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Agadmator was pretty small for a long time, but seems to have gotten a lot bigger this year.  Always great videos!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617339419565,
+      "content": "Had not heard of Dubov or agadmator. Thanks!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Had not heard of Dubov or agadmator. Thanks!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617339396963,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/30658058_227866881295895_7829798017094909952_n_821680038417831.gif"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617338128584,
+      "content": "(also, you should definitely check out more agadmator videos.  He goes through current games, historic games, etc.  Him going through alpha zero vs stockfish is amazing)",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "(also, you should definitely check out more agadmator videos.  He goes through current games, historic games, etc.  Him going through alpha zero vs stockfish is amazing)",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617338071399,
+      "content": "You would like Dubov.  He is wild .....tries new moves all the time to force weird games his opponents haven't prepared for.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "You would like Dubov.  He is wild .....tries new moves all the time to force weird games his opponents haven't prepared for.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617338039636,
+      "content": "https://youtu.be/3BgG4bUDHa4",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=3BgG4bUDHa4"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/3BgG4bUDHa4",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617338014694,
+      "content": "https://youtu.be/FFTxIq6l2KM",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=FFTxIq6l2KM"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://youtu.be/FFTxIq6l2KM",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617337898095,
+      "content": "Going for a draw when white isn't great. Often you will see black offer to go into a draw position, but white will refuse to see if they can win....but sometimes it means they lose.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Going for a draw when white isn't great. Often you will see black offer to go into a draw position, but white will refuse to see if they can win....but sometimes it means they lose.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617337822932,
+      "content": "Wouldn't they be embarrassed?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Wouldn't they be embarrassed?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617337810951,
+      "content": "That's sad",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "That's sad",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617337785914,
+      "content": "The last world championships had 12 draws in a row lol. They kept having to reduce the clock time I think.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "The last world championships had 12 draws in a row lol. They kept having to reduce the clock time I think.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617337749994,
+      "content": "I like the way Joanna thinks! You tell them!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I like the way Joanna thinks! You tell them!!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617337666452,
+      "content": "Go big or go home.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Go big or go home.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617337658916,
+      "content": "It's just dumb....if you're so afraid of losing, why are you even playing chess??",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "It's just dumb....if you're so afraid of losing, why are you even playing chess??",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617337608358,
+      "content": "Maybe that's how it should always be, Chad. It'd be more exciting!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Maybe that's how it should always be, Chad. It'd be more exciting!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617337442243,
+      "content": "If a tournament goes long enough with too many draws, they will play a game where white has to win, and black wins with either a draw or win.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "If a tournament goes long enough with too many draws, they will play a game where white has to win, and black wins with either a draw or win.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617337429688,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/110024540_295660774978748_3919010457952900157_n_2943763419192049.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617337360696,
+      "content": "Well, often it's because they get in a position where they repeat moves.  Neither wants to move differently and be at a disadvantage.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Well, often it's because they get in a position where they repeat moves.  Neither wants to move differently and be at a disadvantage.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617337284329,
+      "content": "But it does beg the question....why are draws acceptable in professional chess??? And I'm not talking about stalemate or king-only endgames...those makes sense. But two players agreeing to stop playing a game that could feasibly end in a win....why??",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "But it does beg the question....why are draws acceptable in professional chess??? And I'm not talking about stalemate or king-only endgames...those makes sense. But two players agreeing to stop playing a game that could feasibly end in a win....why??",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Aaron Rusch",
+      "timestamp_ms": 1617337166358,
+      "content": "If only it were real...",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "If only it were real...",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617336930666,
+      "content": "Haha yes",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Haha yes",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Angela Babbitt Pence",
+      "timestamp_ms": 1617336779230,
+      "content": "April fools??",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "April fools??",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617336726945,
+      "content": "\"BREAKING: Official Rules Of Chess Updated, Draws Removed - Chess.com\" https://www.chess.com/news/view/breaking-official-rules-of-chess-updated",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "share": {
+        "link": "https://www.chess.com/"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "\"BREAKING: Official Rules Of Chess Updated, Draws Removed - Chess.com\" https://www.chess.com/news/view/breaking-official-rules-of-chess-updated",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617207967922,
+      "content": "Hahaha this literally came up in my YouTube suggestions yesterday hahaha!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Hahaha this literally came up in my YouTube suggestions yesterday hahaha!!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1617207584751,
+      "content": "Good movie suggestion Joanna.....but might I suggest Chess in 2021.\nhttps://youtu.be/0sXZB0bsxEw",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "share": {
+        "link": "https://www.youtube.com/watch?v=0sXZB0bsxEw"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Good movie suggestion Joanna.....but might I suggest Chess in 2021.\nhttps://youtu.be/0sXZB0bsxEw",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617204075044,
+      "content": "The number 1 spice",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "The number 1 spice",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617201327453,
+      "content": "\" bring flavor to the fish, bring flavor to rice\"",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "\" bring flavor to the fish, bring flavor to rice\"",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617170922195,
+      "content": "FYI: The Queen of Katwe on Disney+ is a chess-related movie based on a true story. It's a good watch.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "FYI: The Queen of Katwe on Disney+ is a chess-related movie based on a true story. It's a good watch.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Aaron Rusch",
+      "timestamp_ms": 1617080283564,
+      "content": "Thank you. I'm pretty sure I just played my best chess game. I had no idea how to respond to your opening. I kept looking at it for about 5 days.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Timothy Vanderpool"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Thank you. I'm pretty sure I just played my best chess game. I had no idea how to respond to your opening. I kept looking at it for about 5 days.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617079607107,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/50260374_392165124689390_4750771593641197568_n_1354275231601523.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1617079364171,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/128973220_293557505407862_7933619407206450557_n_720184435343972.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1617079023781,
+      "content": "Aaron just punished me pretty good for getting cocky with my open. Well played, good sir.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Aaron just punished me pretty good for getting cocky with my open. Well played, good sir.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616985635886,
+      "content": "I wish I could agree joanna, but sadly, I know I would have a price and it wouldn't be that much haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I wish I could agree joanna, but sadly, I know I would have a price and it wouldn't be that much haha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1616974988684,
+      "content": "I'm not sure there's any amount of money that would be worth me getting embarrassed on the world stage...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I'm not sure there's any amount of money that would be worth me getting embarrassed on the world stage...",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1616974579703,
+      "content": "I mean that sounds like a pretty good deal to me.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I mean that sounds like a pretty good deal to me.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616974504313,
+      "content": "I mean....the guy decided 7k was worth being embarrassed.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I mean....the guy decided 7k was worth being embarrassed.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1616974503505,
+      "content": "Sorry Jo, my phone decided to call Joann for unknown reasons.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Sorry Jo, my phone decided to call Joann for unknown reasons.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1616974441135,
+      "content": "Yeah! Joann and I were talking about this the other day!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah! Joann and I were talking about this the other day!!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616974403549,
+      "content": "https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas",
+      "share": {
+        "link": "https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616974343943,
+      "content": "And/or I am indecisive until the last min.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "And/or I am indecisive until the last min.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616974330002,
+      "content": "Chess is a mind game. ;)",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Chess is a mind game. ;)",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1616974300072,
+      "content": "Chad, I feel like you purposefully make a move late at night so when I wake up 9 hours are already off my clock.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Chad, I feel like you purposefully make a move late at night so when I wake up 9 hours are already off my clock.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Angela Babbitt Pence",
+      "timestamp_ms": 1616210066412,
+      "content": "This is LITERALLY what Scott has been doing for the last few weeks. Then I hear his hardcore regret after he makes a spur of the moment move before class.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Joanna Rusch"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "This is LITERALLY what Scott has been doing for the last few weeks. Then I hear his hardcore regret after he makes a spur of the moment move before class.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616209410695,
+      "content": "I think about a move.  Look away....come back....like the move more.....leave....come back again and change my idea spur of the moment haha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I think about a move.  Look away....come back....like the move more.....leave....come back again and change my idea spur of the moment haha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1616207361183,
+      "content": "Oh you would crush me. My instincts suck. The time to really think and plan is the only way I can even come close.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Oh you would crush me. My instincts suck. The time to really think and plan is the only way I can even come close.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616205168322,
+      "content": "We need to play like 5-10 min times games scott.  I think too much on these games haha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "We need to play like 5-10 min times games scott.  I think too much on these games haha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1616197320679,
+      "content": "I will literally play any other board regardless of time before I play the game I have with Chad because they are so stressful.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I will literally play any other board regardless of time before I play the game I have with Chad because they are so stressful.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1616197185459,
+      "content": "My games against Scott are so stressful.  So much tension.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "My games against Scott are so stressful.  So much tension.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Aaron Rusch",
+      "timestamp_ms": 1616196148462,
+      "content": "How I feel play chess against you all.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "How I feel play chess against you all.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Aaron Rusch",
+      "timestamp_ms": 1616196125586,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/92345705_578224506235094_5117573805153189888_n_1058428114680169.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Scott Pence"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Joanna Rusch",
+      "timestamp_ms": 1615867627411,
+      "content": "Nice, Scott!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Nice, Scott!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1615855703137,
+      "content": "Just wait until I have the black piece. I still have a hard time playing black.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Just wait until I have the black piece. I still have a hard time playing black.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1615855643693,
+      "content": "Thank you, thank you.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Thank you, thank you.",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Scott Pence",
+      "timestamp_ms": 1615855620614,
+      "gifs": [
+        {
+          "uri": "messages/inbox/chessbuds_npjakt9u1g/gifs/50203035_295326594670631_5010610380540477440_n_729120860993392.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chad Larson"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1615854725212,
+      "content": "Chad Larson added Angela Babbitt Pence to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Angela Babbitt Pence"
+        }
+      ],
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1615854680797,
+      "content": "Scott studied my games, did a specific opening for me, and ran me over! It was painful haha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Scott studied my games, did a specific opening for me, and ran me over! It was painful haha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Chad Larson",
+      "timestamp_ms": 1615854650355,
+      "content": "Chad named the group Chess Buds.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    }
+  ],
+  "title": "Chess Buds",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/chessbuds_npjakt9u1g",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
