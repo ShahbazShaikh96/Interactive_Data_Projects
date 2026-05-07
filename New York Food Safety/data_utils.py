@@ -14,6 +14,8 @@ import pandas as pd
 # This list allows the project to check a few expected locations.
 # ============================================================
 DATA_PATH_OPTIONS = [
+    Path(__file__).resolve().parent / "data" / "nyc_inspection_data.csv.gz",
+    Path(__file__).resolve().parent / "nyc_inspection_data.csv.gz",
     Path(__file__).resolve().parent / "nyc_inspection_data.csv",
     Path(__file__).resolve().parent / "data" / "nyc_inspection_data.csv",
     Path("/Users/shahbazshaikh/Desktop/indata_sp26/nyc_food_safety:/nyc_inspection_data.csv"),

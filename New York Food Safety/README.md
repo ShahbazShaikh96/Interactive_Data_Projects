@@ -77,15 +77,17 @@ http://127.0.0.1:8050
 
 The app checks for the dataset in the following order:
 
-1. `nyc_inspection_data.csv` in the project root
-2. `data/nyc_inspection_data.csv`
-3. the original local Desktop path used during development
+1. `data/nyc_inspection_data.csv.gz`
+2. `nyc_inspection_data.csv.gz` in the project root
+3. `nyc_inspection_data.csv` in the project root
+4. `data/nyc_inspection_data.csv`
+5. the original local Desktop path used during development
 
 For a clean GitHub workflow, the best option is to place the CSV in:
 
-- `data/nyc_inspection_data.csv`
+- `data/nyc_inspection_data.csv.gz`
 
-If the dataset is too large or cannot be uploaded, keep the file locally and update the instructions clearly for the person running the app.
+The compressed `.csv.gz` version is preferred for GitHub because it keeps the full dataset available while staying within repository file size limits.
 
 ## Dashboard Features
 
