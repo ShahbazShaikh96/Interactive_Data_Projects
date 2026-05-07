@@ -40,8 +40,6 @@ The intended audience includes:
 - `nyc_food_safety_milestone_3.ipynb`
   Notebook used for milestone analysis, chart development, and exploratory work.
 
-- `CLASS_PRESENTATION_GUIDE.txt`
-  Class-facing script, rubric answers, and likely Q&A.
 
 - `GITHUB_SUBMISSION_README.txt`
   Milestone-by-milestone project narrative for submission support.
